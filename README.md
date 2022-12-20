@@ -1,3 +1,6 @@
+
+![bannerPresentacion](https://user-images.githubusercontent.com/98063133/208578776-2c6639ed-4d5e-40f2-9491-1c6047bfd9f8.jpg)
+
 <h4>
 I'm a Full Stack Web Developer. Currently I'm Studying the career in Coder House, I completed successfully the front end section. Now I'm starting with backend part(Node JS.).
 Besides I did an intensive bootcamp about .NET in Education IT provided by Accenture, Company where I work since December 28, 2022. <br>
