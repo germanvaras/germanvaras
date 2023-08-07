@@ -15,14 +15,16 @@ I believe that technology can change the world and I want to be a part of that c
     .NET: ASP NET MVC
 
 ↩Backend:</br>
-    .NET: Net Framework, .Net Core.
+    .NET: Net Framework, .Net Core.</br>
+    Node JS: Express 
     
 
 🛢Data base:</br>
     SQL Server </br>
-    EntityFramework
+    EntityFramework</br>
+    Mongo Db: Mongoose
 
-💬 You can ask me about: HTML, CSS, JavaScript, React,  HTML, CSS, C#, .NET, Entity Framework, SQL.
+💬 You can ask me about: HTML, CSS, JavaScript, React,  HTML, CSS, C#, .NET, Node Js, Entity Framework, SQL y Mongo Db.
   
 <h3> Contact:</h3>
 
